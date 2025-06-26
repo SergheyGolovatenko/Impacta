@@ -52,6 +52,8 @@ npx cypress open
 npx cypress run
 ```
 
+---
+
 ## 📂 Структура проекта
 ```bash
 Impacta/
@@ -80,6 +82,8 @@ describe('Авторизация', () => {
     cy.get('.sc-b4d871ca-6').should('be.visible')
   })
 ```
+
+---
 
 ## 📬 Контакты
 

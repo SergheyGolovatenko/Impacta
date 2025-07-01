@@ -87,9 +87,9 @@ describe('Авторизация', () => {
 
 ## 📬 Контакты
 
-Автор: Сергей Головатенко
-Email: sergeygolovatenko1988@gmail.com
-GitHub: [SergheyGolovatenko](https://github.com/SergheyGolovatenko)
+Автор: Сергей Головатенко  
+Email: sergeygolovatenko1988@gmail.com  
+GitHub: https://github.com/SergheyGolovatenko  
 
 ## 📝 Лицензия
 
